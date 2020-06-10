@@ -1,0 +1,18 @@
+.header {
+  height: 90px;
+  // width: 100%;
+  padding: 0 60px;
+  background-color: #161616;
+  position: relative;
+
+  &-logo {
+    position: absolute;
+    left: 50%;
+    top: 35px;
+    transform: translate(-50%, 0);
+
+    img {
+      height: 15px;
+    }
+  }
+}
