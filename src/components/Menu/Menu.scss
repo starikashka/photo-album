@@ -1,0 +1,32 @@
+.Menu {
+  --menu-size: 2rem;
+
+  position: relative;
+
+  &__icon {
+    display: inline-block;
+    height: var(--menu-size);
+    width: var(--menu-size);
+
+  }
+
+  &__menu-toggle {
+    line-height: var(--menu-size);
+    border: none;
+    padding: 0;
+    text-align: center;
+  }
+
+  &__navigation {
+    background: black;
+    color: white;
+
+    position: absolute;
+    top: var(--menu-size);
+    left: 0;
+    display: none;
+
+    &--open {display: block;}
+
+  }
+}
