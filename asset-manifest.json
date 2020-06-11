@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://starikashka.github.io/photo-album /static/css/main.3732b338.chunk.css",
-    "main.js": "https://starikashka.github.io/photo-album /static/js/main.20960989.chunk.js",
-    "main.js.map": "https://starikashka.github.io/photo-album /static/js/main.20960989.chunk.js.map",
-    "runtime-main.js": "https://starikashka.github.io/photo-album /static/js/runtime-main.879a3bf5.js",
-    "runtime-main.js.map": "https://starikashka.github.io/photo-album /static/js/runtime-main.879a3bf5.js.map",
-    "static/js/2.fe899c6b.chunk.js": "https://starikashka.github.io/photo-album /static/js/2.fe899c6b.chunk.js",
-    "static/js/2.fe899c6b.chunk.js.map": "https://starikashka.github.io/photo-album /static/js/2.fe899c6b.chunk.js.map",
-    "index.html": "https://starikashka.github.io/photo-album /index.html",
-    "precache-manifest.f5a0df6b6866a9b3edeb347674c19a46.js": "https://starikashka.github.io/photo-album /precache-manifest.f5a0df6b6866a9b3edeb347674c19a46.js",
-    "service-worker.js": "https://starikashka.github.io/photo-album /service-worker.js",
-    "static/css/main.3732b338.chunk.css.map": "https://starikashka.github.io/photo-album /static/css/main.3732b338.chunk.css.map",
-    "static/js/2.fe899c6b.chunk.js.LICENSE.txt": "https://starikashka.github.io/photo-album /static/js/2.fe899c6b.chunk.js.LICENSE.txt"
+    "main.css": "https://starikashka.github.io/photo-album/static/css/main.3732b338.chunk.css",
+    "main.js": "https://starikashka.github.io/photo-album/static/js/main.91cdbc84.chunk.js",
+    "main.js.map": "https://starikashka.github.io/photo-album/static/js/main.91cdbc84.chunk.js.map",
+    "runtime-main.js": "https://starikashka.github.io/photo-album/static/js/runtime-main.e132f665.js",
+    "runtime-main.js.map": "https://starikashka.github.io/photo-album/static/js/runtime-main.e132f665.js.map",
+    "static/js/2.fe899c6b.chunk.js": "https://starikashka.github.io/photo-album/static/js/2.fe899c6b.chunk.js",
+    "static/js/2.fe899c6b.chunk.js.map": "https://starikashka.github.io/photo-album/static/js/2.fe899c6b.chunk.js.map",
+    "index.html": "https://starikashka.github.io/photo-album/index.html",
+    "precache-manifest.b07ec22a8e5e4e2c36fd5895a4197a5c.js": "https://starikashka.github.io/photo-album/precache-manifest.b07ec22a8e5e4e2c36fd5895a4197a5c.js",
+    "service-worker.js": "https://starikashka.github.io/photo-album/service-worker.js",
+    "static/css/main.3732b338.chunk.css.map": "https://starikashka.github.io/photo-album/static/css/main.3732b338.chunk.css.map",
+    "static/js/2.fe899c6b.chunk.js.LICENSE.txt": "https://starikashka.github.io/photo-album/static/js/2.fe899c6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.879a3bf5.js",
+    "static/js/runtime-main.e132f665.js",
     "static/js/2.fe899c6b.chunk.js",
     "static/css/main.3732b338.chunk.css",
-    "static/js/main.20960989.chunk.js"
+    "static/js/main.91cdbc84.chunk.js"
   ]
 }
